@@ -3,7 +3,7 @@ let pakhi;(kno value declare na korle)
 function add(num1, num2) {
     console.log(num1+num2);
     return
-} (ki return korbe ta na bole dile or kno kichu return na korle)
+} //(ki return korbe ta na bole dile or kno kichu return na korle)
 
 function add(num1, num2) {
     console.log(num1,num2);
